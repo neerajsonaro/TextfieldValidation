@@ -1,0 +1,16 @@
+//
+//  Validation.pch
+//  TextfieldValidation
+//
+//  Created by GBS-mac on 24/10/17.
+//  Copyright © 2017 Globussoft. All rights reserved.
+//
+
+#ifndef Validation_pch
+#define Validation_pch
+
+#define SCREEN_WIDTH   [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT   [UIScreen mainScreen].bounds.size.height
+
+
+#endif /* Validation_pch */
